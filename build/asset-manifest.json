@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84ec9912.css",
+    "main.js": "/static/js/main.7f23b113.js",
+    "static/media/remixicon.svg?t=1702724036775": "/static/media/remixicon.a377e4c771db384f4bc5.svg",
+    "static/media/remixicon.eot?t=1702724036775": "/static/media/remixicon.dd310df16a603c6a396d.eot",
+    "static/media/remixicon.ttf?t=1702724036775": "/static/media/remixicon.424fce778c275364c18f.ttf",
+    "static/media/register-2.webp": "/static/media/register-2.336601f9a59e94f5dece.webp",
+    "static/media/remixicon.woff?t=1702724036775": "/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
+    "static/media/remixicon.woff2?t=1702724036775": "/static/media/remixicon.d690f58194cb889b5487.woff2",
+    "static/media/ticket-booking.webp": "/static/media/ticket-booking.1863317a6801ac659c63.webp",
+    "static/media/theatre.webp": "/static/media/theatre.95dd5dd1bb857b3747a6.webp",
+    "static/media/login_image.webp": "/static/media/login_image.e09cf33c457ef7bb22cf.webp",
+    "static/media/show.webp": "/static/media/show.d31164c93ea071c2c62a.webp",
+    "static/media/welcome.webp": "/static/media/welcome.0f2ab8fc1782a14057c2.webp",
+    "index.html": "/index.html",
+    "main.84ec9912.css.map": "/static/css/main.84ec9912.css.map",
+    "main.7f23b113.js.map": "/static/js/main.7f23b113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ec9912.css",
+    "static/js/main.7f23b113.js"
+  ]
+}
